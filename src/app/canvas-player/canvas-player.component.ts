@@ -38,7 +38,7 @@ export class CanvasPlayerComponent implements AfterViewInit {
     { x: 452, y: 1173, width: 85, height: 24, audioId: "liviana" },
     { x: 881, y: 1080, width: 140, height: 26, audioId: "campanilleros" },
     { x: 773, y: 1065, width: 95, height: 26, audioId: "arrieras" },
-    { x: 432, y: 1110, width: 90, height: 26, audioId: "serana" },
+    { x: 432, y: 1110, width: 90, height: 26, audioId: "serrana" },
     { x: 467, y: 1060, width: 90, height: 24, audioId: "trilleras" },
     { x: 523, y: 975, width: 98, height: 26, audioId: "sevillanas" },
     { x: 126, y: 1211, width: 83, height: 26, audioId: "tientos" },

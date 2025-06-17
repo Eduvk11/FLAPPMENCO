@@ -100,8 +100,14 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/FLAPPMENCO/",
+            "deployUrl": "/FLAPPMENCO/",
+            "outputPath": "dist/fl-appmenco"
+          }
         }
+
       }
     }
   }
